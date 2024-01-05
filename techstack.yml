@@ -1,7 +1,8 @@
 repo_name: mollypi/cloud-code-samples
 report_id: c580bf0886829a4815ebede05583cbb9
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T05:32:44+00:00'
+timestamp: '2024-01-05T08:42:07+00:00'
 requested_by: web-flow
 provider: github
 branch: v1
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -55,6 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -65,6 +71,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -75,6 +82,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: Smarty
   description: Template engine for PHP
@@ -84,6 +92,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -95,6 +104,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/dotnet/dotnet-guestbook/src/frontend/frontend.csproj
   detection_source: dotnet/dotnet-guestbook/src/frontend/frontend.csproj
   last_updated_by: Simon Zeltser
   last_updated_on: 2019-04-04 05:57:50.000000000 Z
@@ -109,8 +119,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: dotnet/dotnet-cloud-run-hello-world/dotnet-cloud-run-hello-world.csproj
-  detection_source: dotnet/dotnet-hello-world/src/helloworld.csproj
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/dotnet/dotnet-cloud-run-hello-world/dotnet-cloud-run-hello-world.csproj
+  detection_source: dotnet/dotnet-cloud-run-hello-world/dotnet-cloud-run-hello-world.csproj
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
 - name: ASP.NET Core
@@ -124,8 +134,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: dotnet/dotnet-cloud-run-hello-world/dotnet-cloud-run-hello-world.csproj
-  detection_source: dotnet/dotnet-hello-world/src/helloworld.csproj
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/dotnet/dotnet-cloud-run-hello-world/dotnet-cloud-run-hello-world.csproj
+  detection_source: dotnet/dotnet-cloud-run-hello-world/dotnet-cloud-run-hello-world.csproj
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
 - name: Django
@@ -138,8 +148,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/994/4aGjtNQv.png
-  detection_source_url: python/cloud-run-django-hello-world/requirements.txt
-  detection_source: python/django/python-hello-world/src/requirements.txt
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/python/cloud-run-django-hello-world/requirements.txt
+  detection_source: python/cloud-run-django-hello-world/requirements.txt
   last_updated_by: Renovate Bot
   last_updated_on: 2022-07-05 22:11:31.000000000 Z
 - name: ExpressJS
@@ -153,8 +163,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
-  detection_source: nodejs/nodejs-hello-world/package.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
 - name: Flask
@@ -167,8 +177,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
-  detection_source_url: python/cloud-run-python-hello-world/requirements.txt
-  detection_source: python/python-hello-world/src/requirements.txt
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/python/cloud-run-python-hello-world/requirements.txt
+  detection_source: python/cloud-run-python-hello-world/requirements.txt
   last_updated_by: Renovate Bot
   last_updated_on: 2022-07-13 22:35:25.000000000 Z
 - name: Node.js
@@ -180,7 +190,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: nodejs/nodejs-hello-world/Dockerfile
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/Dockerfile
+  detection_source: nodejs/nodejs-cloud-run-hello-world/Dockerfile
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
 - name: Spring Framework
@@ -193,7 +204,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
-  detection_source: java/java-hello-world/pom.xml
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/java/java-cloud-run-hello-world/pom.xml
+  detection_source: java/java-cloud-run-hello-world/pom.xml
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
 - name: MongoDB
@@ -204,7 +216,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
-  detection_source: python/python-guestbook/src/backend/back.py
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/dotnet/dotnet-guestbook/src/backend/backend.csproj
+  detection_source: dotnet/dotnet-guestbook/src/backend/backend.csproj
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-22 02:12:14.000000000 Z
 - name: Mongoose
@@ -217,7 +230,7 @@ tools:
   category: Data Stores
   sub_category: Object Document Mapper (ODM)
   image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
-  detection_source_url: nodejs/nodejs-guestbook/src/backend/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-guestbook/src/backend/package-lock.json
   detection_source: nodejs/nodejs-guestbook/src/backend/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-07-13 16:52:26.000000000 Z
@@ -230,7 +243,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
-  detection_source: java/java-hello-world/Dockerfile
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/java/java-cloud-run-hello-world/Dockerfile
+  detection_source: java/java-cloud-run-hello-world/Dockerfile
   last_updated_by: Gregory Moon
   last_updated_on: 2021-03-04 20:00:56.000000000 Z
 - name: Docker
@@ -242,6 +256,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -252,7 +267,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: nodejs/nodejs-hello-world/package.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package.json
+  detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
 - name: Git
@@ -263,6 +279,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: Google Cloud Build
   description: Continuously build, test, and deploy.
@@ -272,7 +289,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Deployment
   image_url: https://img.stackshare.io/service/9309/PoHJY3K8_400x400.jpg
-  detection_source: python/cloudbuild.yaml
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/dotnet/dotnet-guestbook/cloudbuild.yaml
+  detection_source: dotnet/dotnet-guestbook/cloudbuild.yaml
   last_updated_by: Simon Zeltser
   last_updated_on: 2019-04-04 05:57:50.000000000 Z
 - name: JUnit
@@ -284,6 +302,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/java/java-cloud-run-hello-world/pom.xml
   detection_source: java/java-cloud-run-hello-world/pom.xml
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
@@ -298,7 +317,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
   detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-05-26 22:31:59.000000000 Z
@@ -310,6 +329,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/dotnet/dotnet-guestbook/src/frontend/frontend.csproj
   detection_source: dotnet/dotnet-guestbook/src/frontend/frontend.csproj
   last_updated_by: Simon Zeltser
   last_updated_on: 2019-04-04 05:57:50.000000000 Z
@@ -323,7 +343,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
   detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-30 06:32:39.000000000 Z
@@ -335,6 +355,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/python/python-guestbook/src/backend/requirements.txt
   detection_source: python/python-guestbook/src/backend/requirements.txt
   last_updated_by: Renovate Bot
   last_updated_on: 2019-10-15 05:39:32.000000000 Z
@@ -346,6 +367,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-hello-world/package.json
   detection_source: nodejs/nodejs-hello-world/package.json
   last_updated_by: Guillermina Muro
   last_updated_on: 2019-03-25 18:33:51.000000000 Z
@@ -358,7 +380,8 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
-  detection_source: java/java-hello-world/src/main/resources/application.properties
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/java/java-cloud-run-hello-world/src/main/resources/application.properties
+  detection_source: java/java-cloud-run-hello-world/src/main/resources/application.properties
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
 - name: Moment.js
@@ -372,7 +395,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: nodejs/nodejs-guestbook/src/frontend/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-guestbook/src/frontend/package-lock.json
   detection_source: nodejs/nodejs-guestbook/src/frontend/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-07-06 19:23:07.000000000 Z
@@ -385,6 +408,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/mollypi/cloud-code-samples
   detection_source: Repo Metadata
 - name: axios
   description: Promise based HTTP client for the browser and node.js
@@ -396,7 +420,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: nodejs/nodejs-guestbook/src/frontend/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-guestbook/src/frontend/package-lock.json
   detection_source: nodejs/nodejs-guestbook/src/frontend/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-05-19 19:04:38.000000000 Z
@@ -410,8 +434,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
-  detection_source: nodejs/nodejs-guestbook/src/frontend/package.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source: nodejs/nodejs-guestbook/src/backend/package.json
   last_updated_by: WhiteSource Renovate
   last_updated_on: 2022-04-23 06:09:09.000000000 Z
 - name: eslint-config-prettier
@@ -424,7 +448,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
   detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-30 06:32:39.000000000 Z
@@ -438,7 +462,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
   detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-30 06:32:39.000000000 Z
@@ -452,7 +476,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
   detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-30 06:32:39.000000000 Z
@@ -466,7 +490,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
   detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-30 06:32:39.000000000 Z
@@ -480,8 +504,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
-  detection_source: nodejs/nodejs-hello-world/package.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
 - name: handlebars
@@ -495,8 +519,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: nodejs/nodejs-cloud-run-hello-world/package-lock.json
-  detection_source: nodejs/nodejs-hello-world/package.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-cloud-run-hello-world/package-lock.json
+  detection_source: nodejs/nodejs-cloud-run-hello-world/package.json
   last_updated_by: Simon Zeltser
   last_updated_on: 2020-04-10 02:24:04.000000000 Z
 - name: moment
@@ -509,7 +533,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: nodejs/nodejs-guestbook/src/frontend/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-guestbook/src/frontend/package-lock.json
   detection_source: nodejs/nodejs-guestbook/src/frontend/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-07-06 19:23:07.000000000 Z
@@ -523,7 +547,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16227/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: nodejs/nodejs-guestbook/src/frontend/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-guestbook/src/frontend/package-lock.json
   detection_source: nodejs/nodejs-guestbook/src/frontend/package.json
   last_updated_by: Guillermina Muro
   last_updated_on: 2019-03-28 18:29:42.000000000 Z
@@ -537,13 +561,13 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16003/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: nodejs/nodejs-hello-world/package-lock.json
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/nodejs/nodejs-hello-world/package-lock.json
   detection_source: nodejs/nodejs-hello-world/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-23 18:15:54.000000000 Z
 - name: bleach
   description: An easy safelist-based HTML-sanitizing tool
-  package_url: https://pypi.org/bleach
+  package_url: https://pypi.org/project/bleach
   version: 5.0.1
   license: Apache-2.0
   open_source: true
@@ -551,13 +575,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20045/default_b0b684477aefb2da4c92a4bafd91d26e16511cd1.png
-  detection_source_url: python/python-guestbook/src/backend/requirements.txt
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/python/python-guestbook/src/backend/requirements.txt
   detection_source: python/python-guestbook/src/backend/requirements.txt
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-27 17:37:29.000000000 Z
 - name: python-dateutil
   description: Extensions to the standard Python datetime module
-  package_url: https://pypi.org/python-dateutil
+  package_url: https://pypi.org/project/python-dateutil
   version: 2.8.2
   license: NRL
   open_source: true
@@ -565,13 +589,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
-  detection_source_url: python/django/python-guestbook/src/requirements.txt
-  detection_source: python/python-guestbook/src/frontend/requirements.txt
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/python/django/python-guestbook/src/requirements.txt
+  detection_source: python/django/python-guestbook/src/requirements.txt
   last_updated_by: WhiteSource Renovate
   last_updated_on: 2021-08-22 02:57:20.000000000 Z
 - name: requests
   description: Python HTTP for Humans
-  package_url: https://pypi.org/requests
+  package_url: https://pypi.org/project/requests
   version: 2.28.1
   license: Apache-2.0
   open_source: true
@@ -579,8 +603,8 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
-  detection_source_url: python/cloud-run-django-hello-world/requirements.txt
-  detection_source: python/python-guestbook/src/frontend/requirements.txt
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/python/cloud-run-django-hello-world/requirements.txt
+  detection_source: python/cloud-run-django-hello-world/requirements.txt
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-29 16:17:24.000000000 Z
   vulnerabilities:
@@ -601,7 +625,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12870/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: dotnet/dotnet-guestbook/src/frontend/frontend.csproj
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/dotnet/dotnet-guestbook/src/frontend/frontend.csproj
   detection_source: dotnet/dotnet-guestbook/src/frontend/frontend.csproj
   last_updated_by: Renovate Bot
   last_updated_on: 2022-05-31 16:15:53.000000000 Z
@@ -614,7 +638,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12892/default_f3b66025ae87cade251c16c8d9e166b0f1df9597.png
-  detection_source_url: dotnet/dotnet-guestbook/src/backend/backend.csproj
+  detection_source_url: https://github.com/mollypi/cloud-code-samples/blob/v1/dotnet/dotnet-guestbook/src/backend/backend.csproj
   detection_source: dotnet/dotnet-guestbook/src/backend/backend.csproj
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-22 02:12:14.000000000 Z

@@ -2,7 +2,7 @@ repo_name: mollypi/cloud-code-samples
 report_id: c580bf0886829a4815ebede05583cbb9
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:42:07+00:00'
+timestamp: '2024-02-29T18:46:31+00:00'
 requested_by: web-flow
 provider: github
 branch: v1
@@ -235,7 +235,7 @@ tools:
   last_updated_by: Renovate Bot
   last_updated_on: 2022-07-13 16:52:26.000000000 Z
 - name: Apache Maven
-  description: 'Apache build manager for Java projects. '
+  description: Apache build manager for Java projects.
   website_url: http://maven.apache.org/
   license: Apache-2.0
   open_source: true
@@ -334,7 +334,7 @@ tools:
   last_updated_by: Simon Zeltser
   last_updated_on: 2019-04-04 05:57:50.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
